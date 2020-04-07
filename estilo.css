@@ -1,0 +1,32 @@
+#topo{
+    background-color: black;
+    color: white;
+}
+#menu{
+    background-color: black;
+    color: white;
+    width: 200px;
+    float: left;
+}
+#menu ul{
+    list-style: none;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}   
+
+#conteudo{
+    font-size: 18px;
+    background-color: blue;
+    width: 500px;
+    float: left;
+}
+
+#rodape{
+    background-color: black;
+    color: white;
+    clear: both;
+}
