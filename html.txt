@@ -1,0 +1,8 @@
+01 - Converter para as TAGs semanticas do HTML 5
+02 - Colocar a fonte (local de onde pesquisaram)
+<footer>
+<header>
+<nav>
+<aside>
+<section>
+<article>

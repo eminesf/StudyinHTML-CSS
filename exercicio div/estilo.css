@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+#nav1{
+    background-color : pink;
+    border           : solid 1px brown;
+    width            : 960px;
+    margin: 0 auto;
+}
+
+#topo{
+    margin: auto;
+    background-color: green;
+    width: 100%;
+    float: left;
+}
+#logo{
+    background-color: red;
+    width: 140px;
+    margin: 0px 0px;
+    padding: 0.1px;
+
+}
+
+#menu{
+    background-color: red;
+    width: 140px;
+}
+
+#menu ul{
+    list-style: none;
+    display: inline;
+}
+
+#menu li{
+    border: solid 1px green;
+}
